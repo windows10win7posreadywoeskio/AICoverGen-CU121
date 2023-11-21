@@ -33,6 +33,10 @@ WebUI is under constant development and testing, but you can try it out right no
 Install and pull any new requirements and changes by opening a command line window in the `AICoverGen` directory and running the following commands.
 
 ```
+# Windows
+venv\Scripts\activate.bat
+# Linux
+source venv/bin/activate
 pip install -r requirements.txt
 git pull
 ```
@@ -65,6 +69,12 @@ Follow the instructions [here](https://www.hostinger.com/tutorials/how-to-instal
 ### Install sox
 
 Follow the instructions [here](https://www.tutorialexample.com/a-step-guide-to-install-sox-sound-exchange-on-windows-10-python-tutorial/) to install sox and add it to your Windows path environment.
+
+## Automatic setup
+
+### comginng soon
+
+## Manual setup
 
 ### Clone AICoverGen repository
 
